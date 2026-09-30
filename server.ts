@@ -329,7 +329,7 @@ app.get('/school.jpg', (_req, res) => {
 
 // Server-side Gemini AI Client with telemetry header
 const ai = new GoogleGenAI({
-  apiKey: process.env.GEMINI_API_KEY,
+  apiKey: "AQ.Ab8RN6K_5EUveEnGe1BhAtNI54gPUToAUlowYttCMAUlKr0EQg" // <-- Yahan apni asli API key paste kar do
   httpOptions: {
     headers: {
       'User-Agent': 'aistudio-build',
