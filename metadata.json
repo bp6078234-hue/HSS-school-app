@@ -1,0 +1,6 @@
+{
+  "name": "GHSS Ahamdpur Khaigaon",
+  "description": "Official school portal for Government Higher Secondary School, Ahamdpur Khaigaon (शासकीय उच्चतर माध्यमिक विद्यालय, अहमदपुर खैगांव).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
